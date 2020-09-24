@@ -8,7 +8,7 @@
     <h4>It can perform these features;</h4>
     <b>
     <ol>
-    <li>I has 54 levels</li>
+    <li>I has 52levels</li>
     <li>Offline Game</li>
     <li>Each level you have to given hard words</li>
     <li>This game levels has unlocked for all</li>
