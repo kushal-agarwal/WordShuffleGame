@@ -1,7 +1,6 @@
 # WordShuffleGame
 <html>
 <head>
-    <meta charset="UTF-8">
 </head>
 <body>
     <h3>This is a simple but too hard offline Word Shuffle game</h3>
